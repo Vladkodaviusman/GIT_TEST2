@@ -1,4 +1,0 @@
-print("Hello World!!!");
-fuck you;
-hello my friend;
-hello brothers;
